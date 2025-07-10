@@ -6,6 +6,11 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-bg: #eeeae6;
+  --color-myBlack: #050505;
+  --color-accent1: #efe4eb;
+  --color-myPrimary: #efc74e;
+  --color-mySecondary: #ce2c1a;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --color-sidebar-ring: var(--sidebar-ring);
