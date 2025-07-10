@@ -71,7 +71,7 @@ export default function Navbar() {
               href={CTA_ITEM.href}
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 flex items-center gap-3 text-lg font-medium transition-colors"
+              className="bg-black text-white px-6 py-3 rounded-lg hover:bg-green-600 flex items-center gap-3 text-lg font-medium transition-colors"
             >
               <FaWhatsapp size={28} />
               {CTA_ITEM.name}
@@ -111,7 +111,7 @@ export default function Navbar() {
                 href={CTA_ITEM.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-6 bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 flex items-center justify-center gap-3 text-lg font-medium transition-colors"
+                className="mt-6 bg-myBlack text-white px-6 py-3 rounded-lg hover:bg-green-600 flex items-center justify-center gap-3 text-lg font-medium transition-colors"
               >
                 <FaWhatsapp size={28} />
                 {CTA_ITEM.name}
