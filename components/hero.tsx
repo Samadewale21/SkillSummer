@@ -7,7 +7,7 @@ const hero = "/assets/hero.png";
 
 export default function Hero() {
   return (
-    <section className="py-12 px-6 md:py-24 bg-bg min-h-screen">
+    <section className="py-12 px-6 md:py-24 bg-bg">
       <Container className="flex flex-col md:flex-row items-center justify-between gap-12">
         {/* Text content */}
         <div className="md:w-1/2">
