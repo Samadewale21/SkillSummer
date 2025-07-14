@@ -28,7 +28,7 @@ export function AboutUs() {
   };
 
   return (
-    <div className="w-full py-16 bg-bg">
+    <div className="w-full py-10 md:py-16 bg-bg">
       <Container>
         <div className="max-w-4xl mx-auto md:px-4">
           <div className="flex flex-col md:flex-row gap-12 items-start justify-between">

@@ -27,7 +27,7 @@ const contactOptions = [
 
 export function ContactUs() {
   return (
-    <div className="w-full py-16 bg-bg">
+    <div className="w-full py-10 md:py-16 bg-bg">
       <Container>
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="scroll-m-20 text-center text-myBlack text-4xl md:text-7xl font-extrabold tracking-tight text-balance leading-normal">
@@ -48,6 +48,7 @@ export function ContactUs() {
             {contactOptions.map((option, index) => (
               <a
                 href={option.action}
+                key={index}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-fit bg-myBlack text-white px-3 py-3 rounded-none text-nowrap flex items-center gap-2 border-myBlack hover:border hover:text-myBlack hover:bg-transparent"

@@ -11,7 +11,7 @@ import { weekData } from "@/data/curriculumDetails";
 
 export function CurriculumAccordion() {
   return (
-    <div className="bg-bg w-full py-16">
+    <div className="bg-bg w-full py-10 md:py-16">
       <Container>
         <div className="mx-auto">
           <div className="flex flex-col items-start justify-between mx-auto p-2 md:flex-row gap-6">

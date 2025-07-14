@@ -6,7 +6,7 @@ import { tabData } from "@/data/featuresDetails";
 
 export default function FeaturesCard() {
   return (
-    <div className="w-full py-16">
+    <div className="w-full py-10 md:py-16">
       <Container>
         <div className="w-full">
           <h1 className="scroll-m-20 text-center text-myBlack text-4xl md:text-7xl font-extrabold tracking-tight text-balance leading-normal">
