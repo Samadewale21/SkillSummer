@@ -13,7 +13,7 @@ export const aboutUsData = {
         url: "https://www.linkedin.com/in/achirtavershima/",
       },
       {
-        icon: "Linkedin",
+        icon: "Facebook",
         url: "https://web.facebook.com/tavershimaachir",
       },
     ],
@@ -27,7 +27,7 @@ export const aboutUsData = {
     ],
     cta: {
       text: "Get Started - Join the WhatsApp group!",
-      url: "#", // Replace with your WhatsApp link
+      url: "https://chat.whatsapp.com/GRaGmM3kFSuFET6JwdlgSk", // Replace with your WhatsApp link
       icon: "FaWhatsapp",
     },
   },

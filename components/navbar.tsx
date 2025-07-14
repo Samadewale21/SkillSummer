@@ -7,6 +7,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import Container from "@/components/container";
 import { FaWhatsapp } from "react-icons/fa";
+import { homepageDetails } from "@/data/homepage";
 
 const NAV_ITEMS = [
   { name: "Home", href: "/" },
@@ -68,13 +69,13 @@ export default function Navbar() {
               ))}
             </ul>
             <Link
-              href={CTA_ITEM.href}
+              href={homepageDetails?.whatsApp?.link}
               target="_blank"
               rel="noopener noreferrer"
               className="bg-black text-white px-2 lg:px-6 py-3 rounded-lg hover:bg-green-600 flex items-center gap-1 lg:gap-3 text-sm lg:text-lg font-medium transition-colors"
             >
               <FaWhatsapp size={28} />
-              {CTA_ITEM.name}
+              {homepageDetails?.whatsApp?.text}
             </Link>
           </div>
 
@@ -108,13 +109,13 @@ export default function Navbar() {
                 ))}
               </ul>
               <Link
-                href={CTA_ITEM.href}
+                href={homepageDetails?.whatsApp?.link}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-6 bg-myBlack text-white px-6 py-3 rounded-lg hover:bg-green-600 flex items-center justify-center gap-3 text-lg font-medium transition-colors"
               >
                 <FaWhatsapp size={28} />
-                {CTA_ITEM.name}
+                {homepageDetails?.whatsApp?.text}
               </Link>
             </div>
           )}

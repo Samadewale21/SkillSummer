@@ -14,13 +14,13 @@ const contactOptions = [
   {
     label: "WhatsApp",
     icon: <MessageSquare className="h-4 w-4" />,
-    action: "https://wa.me/1234567890",
+    action: "https://wa.me/+2349050156069",
     variant: "outline",
   },
   {
     label: "Call",
     icon: <Phone className="h-4 w-4" />,
-    action: "tel:+1234567890",
+    action: "tel:+2349050156069",
     variant: "outline",
   },
 ];

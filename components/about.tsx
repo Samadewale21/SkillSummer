@@ -1,7 +1,7 @@
 // about-us.tsx
 import Image from "next/image";
 import { Globe, Linkedin, Facebook } from "lucide-react";
-import { FaWhatsapp } from "react-icons/fa";
+import { FaWhatsapp, FaFacebook, FaLinkedin } from "react-icons/fa";
 import Container from "./container";
 import { aboutUsData } from "@/data/aboutDetails";
 
@@ -16,11 +16,11 @@ export function AboutUs() {
         );
       case "Linkedin":
         return (
-          <Linkedin className="h-5 w-5 text-gray-700 hover:text-primary transition-colors" />
+          <FaLinkedin className="h-5 w-5 text-gray-700 hover:text-primary transition-colors" />
         );
       case "Facebook":
         return (
-          <Facebook className="h-5 w-5 text-gray-700 hover:text-primary transition-colors" />
+          <FaFacebook className="h-5 w-5 text-gray-700 hover:text-primary transition-colors" />
         );
       default:
         return null;
