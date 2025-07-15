@@ -1,11 +1,11 @@
 export const homepageDetails = {
-  title: "Point them young to the right direction",
+  title: "Your Child Deserves More Than Just School",
   description:
-    "Learn how to code efficiently and create apps and games that work. Consult with best experts to apply skills in action.",
+    "Give them a chance to shine in tech. In 4 weeks, they’ll learn how to build apps, websites, and games — with a final project and certificate to show. Click to join the WhatsApp group now. Few slots left!",
   heroImage: "/assets/hero.png",
   whatsApp: {
     link: "https://chat.whatsapp.com/GRaGmM3kFSuFET6JwdlgSk",
-    text: "Get Started",
+    text: "Join Now",
   },
   video: {
     link: "https://youtu.be/6ORz9KNwXAo?si=VuAXp2cXNR4pUN1F",
