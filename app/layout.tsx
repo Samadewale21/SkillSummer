@@ -26,7 +26,8 @@ export const metadata: Metadata = {
     siteName: "SkillGrid.ng",
     images: [
       {
-        url: "https://skillgrid.ng/og-image.jpg",
+        url: "/assets/og-image.jpg",
+        secureUrl: "https://skillgrid.ng/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "SkillGrid BootCamp 1.0",
@@ -40,7 +41,7 @@ export const metadata: Metadata = {
     title: "BootCamp 1.0 | SkillGrid.ng",
     description:
       "Point them young to the right direction, we will teach your child to build real apps and games that work.",
-    images: ["https://skillgrid.ng/og-image.jpg"],
+    images: ["/assets/og-image.jpg"],
   },
   icons: {
     icon: "/favicon.ico",
