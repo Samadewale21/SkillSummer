@@ -8,7 +8,7 @@ export function Badges() {
     <Container>
       <div className="mt-12 w-full flex flex-col md:flex-row items-center justify-between gap-6 mx-auto">
         <div className="flex w-full flex-wrap gap-2">
-          <Badge className="p-2 px-3 bg-myBlack">Your Child will build:</Badge>
+          <Badge className="p-2 px-3 bg-myBlack">Learn to build:</Badge>
           <Badge className="p-2 px-3 bg-myPrimary" variant="secondary">
             Apps
           </Badge>
