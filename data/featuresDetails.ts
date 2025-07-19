@@ -15,7 +15,7 @@ export const tabData = [
   },
   {
     value: "graphics design",
-    label: "Graphics Design",
+    label: "Graphics",
     title: "Graphic Design",
     description:
       "Children will bring their stories to life through template design and design graphics useful for web design.",
