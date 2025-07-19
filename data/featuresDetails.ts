@@ -1,24 +1,24 @@
 export const tabData = [
   {
-    value: "games",
-    label: "Games",
-    title: "Game Development for Kids",
+    value: "Coding",
+    label: "Coding",
+    title: "Web design and development",
     description:
-      "Your child will learn to create fun, interactive games from scratch using kid-friendly programming tools. They'll understand game mechanics, character design, and problem-solving through coding.",
+      "Your child will learn the about the basics of coding and identify the different languagues used in programming",
   },
   {
-    value: "apps",
-    label: "Apps",
-    title: "App Creation for Young Minds",
+    value: "stem",
+    label: "STEM",
+    title: "Self Learning Pace",
     description:
-      "We guide children through the process of building their own web applications. From concept to deployment, they'll learn UI design, functionality implementation, and basic app publishing concepts.",
+      "We guide children through the process of learning STEM using relevant resources online.",
   },
   {
-    value: "animations",
-    label: "Animations",
-    title: "Animation Development",
+    value: "graphics design",
+    label: "Graphics Design",
+    title: "Graphic Design",
     description:
-      "Children will bring their stories to life by learning animation principles and coding animated sequences. They'll create characters, design movements, and build interactive animated stories.",
+      "Children will bring their stories to life through template design and design graphics useful for web design.",
   },
   {
     value: "websites",

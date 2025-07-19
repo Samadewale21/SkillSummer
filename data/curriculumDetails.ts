@@ -19,7 +19,7 @@ export const weekData = [
       "CSS selectors & properties",
       "Box model & backgrounds",
       "Layout fundamentals",
-      "Hover effects & form styling",
+      "Graphics Design",
       "Style your profile page",
     ],
   },
@@ -30,9 +30,7 @@ export const weekData = [
     highlights: [
       "Variables & data types",
       "Functions & events",
-      "DOM manipulation",
-      "Loops & arrays",
-      "Build an interactive calculator",
+      "Artificial intelligence",
     ],
   },
   {

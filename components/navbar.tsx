@@ -47,7 +47,6 @@ export default function Navbar() {
               height={60}
               className="w-full h-full"
             />
-            <span className="text-xl font-semibold">skillgrid</span>
           </Link>
 
           {/* Desktop Navigation */}

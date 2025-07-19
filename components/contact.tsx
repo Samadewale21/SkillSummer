@@ -8,19 +8,19 @@ const contactOptions = [
   {
     label: "Email",
     icon: <Mail className="h-4 w-4" />,
-    action: "mailto:bootcamp@skillgrid.ng",
+    action: "mailto:technologiescentagon@gmail.com",
     variant: "outline",
   },
   {
     label: "WhatsApp",
     icon: <MessageSquare className="h-4 w-4" />,
-    action: "https://wa.me/+2349050156069",
+    action: "https://wa.me/+2349020434083",
     variant: "outline",
   },
   {
     label: "Call",
     icon: <Phone className="h-4 w-4" />,
-    action: "tel:+2349050156069",
+    action: "tel:+2349010080355",
     variant: "outline",
   },
 ];

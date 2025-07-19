@@ -1,10 +1,10 @@
 export const homepageDetails = {
-  title: "Your Child Deserves More Than Just School",
+  title: "Give your child a lifelong advantage! Develop their Tech skills this summer.",
   description:
-    "Give them a chance to shine in tech. In 4 weeks, they’ll learn how to build apps, websites, and games — with a final project and certificate to show. Click to join the WhatsApp group now. Few slots left!",
+    "In a tech-driven age with the rise in Artificial Intelligence, set the pace for your child’s tech skills. Your child will learn how to coding, websites development/design, Artificial Intelligence, Graphics Design — with a final project and certificate to show. Click to join the WhatsApp group now. Few slots left!",
   heroImage: "/assets/hero.png",
   whatsApp: {
-    link: "https://chat.whatsapp.com/GRaGmM3kFSuFET6JwdlgSk",
+    link: "https://chat.whatsapp.com/EVUiiVITGtzIU7sWfMsVPX",
     text: "Join Now",
   },
   video: {
