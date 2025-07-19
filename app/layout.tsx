@@ -15,22 +15,22 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BootCamp 1.0 | SkillGrid.ng",
+  title: "Summer offer | Centagon Technologies Ltd",
   description:
-    "Point them young to the right direction, we will teach your child to build real apps and games that work.",
+    "Investing in future Tech giants in Africa",
   openGraph: {
-    title: "BootCamp 1.0 | SkillGrid.ng",
+    title: "Summer offer | Centagon Technologies Ltd",
     description:
-      "Point them young to the right direction, we will teach your child to build real apps and games that work.",
-    url: "https://skillgrid.ng",
-    siteName: "SkillGrid.ng",
+      "Investing in future Tech giants in Africa",
+    url: "",
+    siteName: "",
     images: [
       {
         url: "/assets/og-image.jpg",
-        secureUrl: "https://skillgrid.ng/og-image.jpg",
+        secureUrl: "og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "SkillGrid BootCamp 1.0",
+        alt: "Centagon Technologies Limited",
       },
     ],
     locale: "en_US",
@@ -49,32 +49,32 @@ export const metadata: Metadata = {
     shortcut: "/favicon-16x16.png",
   },
   keywords: [
-    "SkillGrid",
+    "Skillsummer",
     "BootCamp",
-    "Kids Coding Bootcamp",
+    "",
     "Learn to Code",
     "Tech Skills for Kids",
     "Coding for Children",
     "Programming Bootcamp",
     "Web Development for Kids",
-    "Game Development for Kids",
+    "",
     "Tech Education",
     "Digital Skills for Kids",
     "Empowering Young Coders",
     "Future Tech Leaders",
-    "SkillGrid.ng",
+    "",
   ],
   authors: [
     {
-      name: "Tavershima Achir",
-      url: "https://achirtavershima.com.ng",
+      name: "Samuel Adewale",
+      url: "",
     },
     {
-      name: "David Nienge",
-      url: "https://davidnienge.com.ng",
+      name: "",
+      url: "",
     },
   ],
-  creator: "Tavershima Achir",
+  creator: "Samuel Adewale",
   themeColor: "#000000",
   manifest: "/manifest.json",
   robots: {
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
     nocache: true,
   },
   alternates: {
-    canonical: "https://skillgrid.ng",
+    canonical: "",
     types: {
       "application/rss+xml": "/feed.xml",
       "application/atom+xml": "/atom.xml",
